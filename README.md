@@ -23,4 +23,4 @@ D&D에 오신것을 환영합니다.
 
 ## 멘티 organizations 생성 규칙
 
-[멘티 organizations 생성 규칙](https://github.com/DNDACADEMY/dnd-notice/MENTEE.md)
+[멘티 organizations 생성 규칙](https://github.com/DNDACADEMY/dnd-notice/blob/master/MENTEE.md)
