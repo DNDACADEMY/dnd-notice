@@ -1,0 +1,10 @@
+__pycache__
+node_modules
+db.sqlite3
+.idea
+env.bat
+venv
+.DS_Store
+package-lock.json
+*.swp
+.venv
