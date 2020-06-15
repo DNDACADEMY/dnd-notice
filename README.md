@@ -16,10 +16,7 @@ D&D에 오신것을 환영합니다.
 
 ## 가이드라인
 
-[노션가이드라인](https://www.notion.so/216654ba646f4f229fa380f06340448a)  
-[멘티가이드라인](https://www.notion.so/ac3c5a829de34150b6f8636308d58c53)  
-[개발멘토가이드라인](https://www.notion.so/3374471b3aa84b8a8fa678b5a33bb1bb)  
-[디자인멘토가이드라인](https://www.notion.so/eee634cf55634765993a4fbee75e9482)
+[멘티가이드라인](https://www.notion.so/ac3c5a829de34150b6f8636308d58c53)
 
 ## 멘티 organizations 생성 규칙
 
