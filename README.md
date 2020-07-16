@@ -14,6 +14,11 @@ D&D에 오신것을 환영합니다.
    - ex) dnd-mentee-3st-1-backend
      ![create](/img/mentee_create_01.png)
 
+## Wiki 사용하기!
+
+https://github.com/dnd-mentee-3rd/dnd-notice/wiki
+
+
 ## 참조사항
 
 [참조할 github](https://github.com/DNDACADEMY)
