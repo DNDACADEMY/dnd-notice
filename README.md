@@ -11,7 +11,7 @@ D&D에 오신것을 환영합니다.
 
 1. 네이밍 규칙에 맞는 **organizations** 생성
    - dnd-mentee-**기수(1,2,3)** st-**조이름**-**설명 혹은 생략**
-   - ex) dnd-mentee-3st-1-backend
+   - ex) dnd-mentee-3rd-1-backend
      ![create](/img/mentee_create_01.png)
 
 ## Wiki 사용하기!
