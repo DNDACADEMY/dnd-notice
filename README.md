@@ -2,7 +2,8 @@
 
 D&D에 오신것을 환영합니다.  
 <strong>프로젝트에 즐거움을  
-모두에게 기회를</strong>
+모두에게 기회를</strong>.  
+프로젝트를 진행함에 있어서, 올바른 git organizations를 생성하는 방법에 대한 문서입니다.
 
 ---
 
@@ -18,6 +19,14 @@ D&D에 오신것을 환영합니다.
 
 [멘티가이드라인](https://www.notion.so/ac3c5a829de34150b6f8636308d58c53)
 
-## 멘티 organizations 생성 규칙
+## 프로젝트 생성
 
-[멘티 organizations 생성 규칙](https://github.com/DNDACADEMY/dnd-notice/blob/master/MENTEE.md)
+1. 네이밍 규칙에 맞는 **organizations** 생성
+   - dnd-mentee-**기수(1,2,3)** st-**조이름**-**설명 혹은 생략**
+   - ex) dnd-mentee-3rd-1-backend
+     ![create](/img/mentee_create_01.png)
+
+## Wiki 사용하기!
+
+https://github.com/dnd-mentee-3rd/dnd-notice/wiki
+
