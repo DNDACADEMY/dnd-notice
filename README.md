@@ -28,5 +28,5 @@ D&D에 오신것을 환영합니다.
 
 ## Wiki 사용하기!
 
-https://github.com/dnd-mentee-3rd/dnd-notice/wiki
+https://github.com/DNDACADEMY/dnd-notice/wiki
 
