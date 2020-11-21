@@ -30,3 +30,9 @@ D&D에 오신것을 환영합니다.
 
 https://github.com/DNDACADEMY/dnd-notice/wiki
 
+---
+
+## 활동 확인하기
+
+- [3기 Github](https://github.com/dnd-mentee-3rd/)
+- [4기 Github](https://github.com/dnd-mentee-4th/)
