@@ -34,4 +34,4 @@ https://github.com/DNDACADEMY/dnd-notice/wiki
 
 ## 활동 확인하기
 
-- [사이드프로젝트 Github](https://github.com/dnd-mentee-4th/)
+- [사이드프로젝트 Github](https://github.com/dnd-side-project/)
