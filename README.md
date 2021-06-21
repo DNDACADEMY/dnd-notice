@@ -23,8 +23,8 @@ D&D에 오신것을 환영합니다.
 
 1. 네이밍 규칙에 맞는 **organizations** 생성
    - dnd-**기수(5th)**-**조이름**-**설명 혹은 생략**
-   - ex) dnd-mentee-5th-1-backend
-     ![create](/img/mentee_create_01.png)
+   - ex) dnd-5th-1-backend
+     ![create](/img/project_create_01.png)
 
 ## Wiki 사용하기!
 
