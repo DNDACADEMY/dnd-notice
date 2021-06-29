@@ -17,7 +17,7 @@ D&D에 오신것을 환영합니다.
 
 ## 가이드라인
 
-[멘티가이드라인](https://www.notion.so/ac3c5a829de34150b6f8636308d58c53)
+[가이드라인](https://www.notion.so/ac3c5a829de34150b6f8636308d58c53)
 
 ## 프로젝트 생성
 
